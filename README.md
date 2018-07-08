@@ -1,2 +1,2 @@
 # mjutest
-This project is practice development  
+This project is practice development  : hello
